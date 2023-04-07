@@ -1,6 +1,6 @@
 server:
     port: 7777
- spring:
+spring:
     application:
         name: config-client
 name: config-client-default
