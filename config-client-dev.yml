@@ -1,6 +1,6 @@
 server:
     port: 7778
- spring:
+spring:
     application:
         name: config-client
 name: config-client-dev
